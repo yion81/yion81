@@ -1,7 +1,7 @@
 # 50/50 chance i will work on a project
 
 # Stats:
-![Ebenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=yion81&show_icons=true&theme=transparent)
+![Yion's GitHub stats](https://github-readme-stats.vercel.app/api?username=yion81&show_icons=true&theme=transparent)
 
 # Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yion81&layout=compact&theme=transparent)
