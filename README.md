@@ -1,7 +1,7 @@
 50/50 change i will work on a project
 
 # Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Ebenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=yion81&show_icons=true&theme=transparent)
 
 <!--
 **yion81/yion81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
