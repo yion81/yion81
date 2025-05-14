@@ -3,6 +3,8 @@
 # Stats:
 ![Ebenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=yion81&show_icons=true&theme=transparent)
 
+# Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yion81)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yion81/yion81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
