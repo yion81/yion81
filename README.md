@@ -1,10 +1,10 @@
 # 50/50 chance i will work on a project
 
 # Stats:
-![Yion's GitHub stats](https://github-readme-stats.vercel.app/api?username=yion81&show_icons=true&theme=transparent)
+![Yion's GitHub stats](https://github-readme-stats-git-master-yion81s-projects.vercel.app/api?username=yion81&show_icons=true&theme=transparent)
 
 # Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yion81&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-git-master-yion81s-projects.vercel.app/api/top-langs/?username=yion81&layout=compact&theme=transparent)
 <!--
 **yion81/yion81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
