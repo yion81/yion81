@@ -1,5 +1,5 @@
 # Hi there!
-I'm mostly a solo dev, experimenting with stuff.
+My solo projects are usually my interests. Like anime and such.
 # Languages:
 ![Languages Used](https://github-readme-stats-git-master-yion81s-projects.vercel.app/api/top-langs/?username=yion81&layout=compact&theme=transparent&locale=en)
 # Stats:
